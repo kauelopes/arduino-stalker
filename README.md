@@ -25,7 +25,8 @@ https://www.arduino.cc
 
 http://docs.opencv.org
 
-#Articles
+# Articles
+
 VIOLA, Paul; JONES, Michael; Rapid Object Detection Using a Boosted Cascade of Simple Features.
 
 VIOLA, Paul; JONES, Michael; Robust Real-Time Face Detection.
